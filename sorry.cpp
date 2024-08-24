@@ -7,3 +7,7 @@ int main() {
   }
   return 0;
 }
+
+//*NOTE:
+// you can even modify it into 1000 times by changing "i <= 100" to "i <= 1000"
+// Well, that's it...... I hope this can makes your relationship gets better <3
